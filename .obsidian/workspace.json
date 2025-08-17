@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "61b3fdaf0b9df7cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e6bde39781c25c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e8f2220c8af362b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CLI/Tools/lazyvim/Shortcuts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Shortcuts"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "264bdd5313cc93dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "786712436548898d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "365e2a1d1d3e96d9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "735997f698e9ecbb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "bd2aac98e6984d4f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "25e6f63d62d29b7c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f1b37fecb6ae546",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d414996578cc8e2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Software/Data Management/Database/Relational/Normalization/3 NF.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 3 NF"
+            }
+          },
+          {
+            "id": "bbdc6f810be28e14",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "6e22f639b4ca7ef2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "cfb7207083a80f84",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Mushroom/Capsule.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Capsule"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 323.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6e8f2220c8af362b",
+  "lastOpenFiles": [
+    "CLI/Tools/docker/compose/Setup.md",
+    "CLI/Tools/chezmoi/Commands.md",
+    "Kanban/Arch setup.md",
+    "CLI/Tools/lazyvim/Shortcuts.md",
+    "CLI/Tools/lazyvim/Customize/Plugins.md",
+    "CLI/Tools/lazyvim/Customize/Keymaps.md",
+    "CLI/Tools/docker/locations.md",
+    "CLI/Tools/docker/commands.md",
+    "CLI/Tools/docker/compose",
+    "CLI/Tools/docker",
+    "CLI/Tools/Untitled.md",
+    "CLI/Tools/nvim/Customize.md",
+    "CLI/Tools/lazyvim/Customize",
+    "CLI/Tools/fzf/Setup.md",
+    "CLI/Tools/fzf/Usage.md",
+    "CLI/Tools/yazi/Keymaps.md",
+    "CLI/Tools/lazygit/Guide.md",
+    "Setup lazygit.md",
+    "chezmoi.md",
+    "Development/Development/App/Design/Splashscreen.md",
+    "Development/Development/App/Design/Launch icon.md",
+    "Development/Development/App/Design/Untitled",
+    "Kanban/ParentalPal.md",
+    "Kanban",
+    "CLI/Tools/Bluez",
+    "CLI/Tools/NetworkManager",
+    "CLI/Tools/fzf",
+    "CLI/Tools/chezmoi",
+    "Mushroom/Capsule.md",
+    "Untitled.md",
+    "CLI/Tools/fzf/Practical Guide.md",
+    "Jpopcon/2. Dagsorden.md",
+    "Mushroom/Recipies/Inoculation/Liquid culture.md",
+    "Mushroom/Recipies/Inoculation/Agar slant.md",
+    "Mushroom/Recipies/Inoculation/Agar plate.md",
+    "Development/Development/Executable/Release/Linux"
+  ]
+}
