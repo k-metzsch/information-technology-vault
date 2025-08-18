@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CLI/Tools/lazyvim/Shortcuts.md",
+                "file": "CLI/Tools/lazyvim/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shortcuts"
+              "title": "Untitled"
             }
           }
         ]
@@ -173,10 +173,11 @@
   },
   "active": "6e8f2220c8af362b",
   "lastOpenFiles": [
+    "CLI/Tools/lazyvim/Shortcuts.md",
+    "CLI/Tools/lazyvim/Untitled.md",
     "CLI/Tools/docker/compose/Setup.md",
     "CLI/Tools/chezmoi/Commands.md",
     "Kanban/Arch setup.md",
-    "CLI/Tools/lazyvim/Shortcuts.md",
     "CLI/Tools/lazyvim/Customize/Plugins.md",
     "CLI/Tools/lazyvim/Customize/Keymaps.md",
     "CLI/Tools/docker/locations.md",
@@ -207,7 +208,6 @@
     "Jpopcon/2. Dagsorden.md",
     "Mushroom/Recipies/Inoculation/Liquid culture.md",
     "Mushroom/Recipies/Inoculation/Agar slant.md",
-    "Mushroom/Recipies/Inoculation/Agar plate.md",
     "Development/Development/Executable/Release/Linux"
   ]
 }
