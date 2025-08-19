@@ -11,13 +11,30 @@
             "id": "66d512166428e6b5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "CLI/Tools/docker/commands.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "commands"
+            }
+          },
+          {
+            "id": "d7132f2fb2d6d463",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.10"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,6 +173,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -167,13 +185,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "365e2a1d1d3e96d9",
+  "active": "d7132f2fb2d6d463",
   "lastOpenFiles": [
-    "CLI/Tools/docker/dev-containers/Docker-OSX/compose.md",
+    "CLI/Tools/docker/compose/Setup.md",
     "CLI/Tools/docker/dev-containers/Docker-OSX/Initial setup.md",
+    "CLI/Tools/docker/dev-containers/Docker-OSX/compose.md",
     "CLI/Tools/docker/in-use/Docker-OSX.md",
     "CLI/Tools/docker/dev-containers/Docker-OSX",
-    "CLI/Tools/docker/compose/Setup.md",
     "CLI/Tools/docker/dev-containers",
     "CLI/Tools/lazyvim/Common keymaps.md",
     "CLI/Tools/lazyvim/Customize/Keymaps.md",
