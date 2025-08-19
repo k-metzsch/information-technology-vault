@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CLI/Tools/docker/dev-containers/Docker-OSX.md",
+                "file": "CLI/Tools/lazyvim/Customize/Keymaps.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Docker-OSX"
+              "title": "Keymaps"
             }
           }
         ],
@@ -189,8 +189,8 @@
   },
   "active": "d7132f2fb2d6d463",
   "lastOpenFiles": [
-    "CLI/Tools/docker/commands.md",
     "CLI/Tools/docker/dev-containers/Docker-OSX.md",
+    "CLI/Tools/docker/commands.md",
     "CLI/Tools/docker/dev-containers",
     "CLI/Tools/docker/compose/Setup.md",
     "CLI/Tools/docker/dev-containers/Docker-OSX/Initial setup.md",
