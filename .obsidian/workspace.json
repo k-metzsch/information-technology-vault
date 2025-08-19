@@ -25,12 +25,14 @@
             "id": "d7132f2fb2d6d463",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.10"
+                "file": "CLI/Tools/docker/dev-containers/Docker-OSX.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.10"
+              "icon": "lucide-file",
+              "title": "Docker-OSX"
             }
           }
         ],
@@ -187,6 +189,9 @@
   },
   "active": "d7132f2fb2d6d463",
   "lastOpenFiles": [
+    "CLI/Tools/docker/commands.md",
+    "CLI/Tools/docker/dev-containers/Docker-OSX.md",
+    "CLI/Tools/docker/dev-containers",
     "CLI/Tools/docker/compose/Setup.md",
     "CLI/Tools/docker/dev-containers/Docker-OSX/Initial setup.md",
     "CLI/Tools/docker/dev-containers/Docker-OSX/compose.md",
@@ -200,7 +205,6 @@
     "CLI/Tools/chezmoi/Commands.md",
     "Kanban/Arch setup.md",
     "CLI/Tools/docker/locations.md",
-    "CLI/Tools/docker/commands.md",
     "CLI/Tools/docker/compose",
     "CLI/Tools/docker",
     "CLI/Tools/Untitled.md",
@@ -219,9 +223,7 @@
     "Kanban",
     "CLI/Tools/Bluez",
     "CLI/Tools/NetworkManager",
-    "CLI/Tools/fzf",
     "Mushroom/Capsule.md",
-    "Untitled.md",
-    "CLI/Tools/fzf/Practical Guide.md"
+    "Untitled.md"
   ]
 }
