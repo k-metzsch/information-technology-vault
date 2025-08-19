@@ -11,14 +11,10 @@
             "id": "66d512166428e6b5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CLI/Tools/docker/in-use/Docker-OSX/Initial setup.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Initial setup"
+              "title": "New tab"
             }
           }
         ]
@@ -171,14 +167,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "66d512166428e6b5",
+  "active": "365e2a1d1d3e96d9",
   "lastOpenFiles": [
-    "CLI/Tools/docker/in-use/Docker-OSX/compose.md",
-    "CLI/Tools/docker/in-use/Docker-OSX/Initial setup.md",
+    "CLI/Tools/docker/dev-containers/Docker-OSX/compose.md",
+    "CLI/Tools/docker/dev-containers/Docker-OSX/Initial setup.md",
     "CLI/Tools/docker/in-use/Docker-OSX.md",
-    "CLI/Tools/docker/in-use/Docker-OSX",
+    "CLI/Tools/docker/dev-containers/Docker-OSX",
     "CLI/Tools/docker/compose/Setup.md",
-    "CLI/Tools/docker/in-use",
+    "CLI/Tools/docker/dev-containers",
     "CLI/Tools/lazyvim/Common keymaps.md",
     "CLI/Tools/lazyvim/Customize/Keymaps.md",
     "CLI/Tools/lazyvim/Customize/Plugins.md",
