@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CLI/Tools/docker/dev-containers/Docker-OSX.md",
+                "file": "CLI/Tools/tmux/keymaps.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Docker-OSX"
+              "title": "keymaps"
             }
           }
         ],
@@ -189,8 +189,10 @@
   },
   "active": "d7132f2fb2d6d463",
   "lastOpenFiles": [
-    "CLI/Tools/docker/commands.md",
     "CLI/Tools/docker/dev-containers/Docker-OSX.md",
+    "CLI/Tools/tmux/keymaps.md",
+    "CLI/Tools/tmux",
+    "CLI/Tools/docker/commands.md",
     "CLI/Tools/docker/compose/Setup.md",
     "CLI/Tools/lazyvim/Customize/Keymaps.md",
     "CLI/Tools/docker/dev-containers",
@@ -222,8 +224,6 @@
     "Kanban/ParentalPal.md",
     "Kanban",
     "CLI/Tools/Bluez",
-    "CLI/Tools/NetworkManager",
-    "Mushroom/Capsule.md",
-    "Untitled.md"
+    "Mushroom/Capsule.md"
   ]
 }
