@@ -1,26 +1,19 @@
-# tmux Guide with Custom Keybinds
-
-This guide explains how to use tmux, focusing on the keybindings defined in your configuration.  
-It also covers tmux basics so you can get the most out of your setup.
-
----
-
-## Getting Started
 
 ### Launch tmux
 
 ```sh
 tmux
 ```
+
 This starts a new tmux session.  
 You’ll see your shell prompt inside tmux.
 
 ### Detach from Session
 
-Press:
 ```
 Ctrl+b then d
 ```
+
 This leaves your session running in the background.
 
 ### Reattach to Session
@@ -76,6 +69,7 @@ To send keys to a process in a tmux pane:
 ```sh
 tmux send-keys -t <session>:<window>.<pane> <key>
 ```
+
 Example (send `r` for hot reload in Flutter):
 ```sh
 tmux send-keys -t mysession:0.0 r
@@ -113,17 +107,10 @@ This reloads your tmux config file and shows a message.
 
 ## Troubleshooting
 
-- If colors look off in tmux, ensure your `.tmux.conf` includes:
-    ```
-    set -g default-terminal "tmux-256color"
-    set -ga terminal-overrides ',*:Tc'
-    ```
-- Restart tmux after changing `.tmux.conf`.
+If colors look off in tmux, ensure your `.tmux.conf` includes:
+```bash
+set -g default-terminal "tmux-256color"
+set -ga terminal-overrides ',*:Tc'
+```
 
----
-
-## Resources
-
-- [tmux Cheat Sheet](https://tmuxcheatsheet.com/)
-- [tmux man page](https://man7.org/linux/man-pages/man1/tmux.1.html)
-- [tmux Plugins](https://github.com/tmux-plugins)
+Restart tmux after changing `.tmux.conf`.
