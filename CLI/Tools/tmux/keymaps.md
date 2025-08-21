@@ -127,7 +127,3 @@ This reloads your tmux config file and shows a message.
 - [tmux Cheat Sheet](https://tmuxcheatsheet.com/)
 - [tmux man page](https://man7.org/linux/man-pages/man1/tmux.1.html)
 - [tmux Plugins](https://github.com/tmux-plugins)
-
----
-
-Happy tmux-ing!
